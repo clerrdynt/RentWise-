@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RentWise_.Properties.Resources" Collapsed="true">
+    <Position X="15" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentWise_.Classes.UserAuthentication" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAAAAAAQAAQAAQAAAJAAACBAAAAAAAAAg=</HashCode>
+      <FileName>Classes\AbstractClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentWise_.Classes.OwnerRegistration">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACgAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Classes\AbstractClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentWise_.Classes.Dormitory">
+    <Position X="9" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACADgAAAIwAACAAAQAEAAAAQAAgBAAACQAQIgAAAAAA=</HashCode>
+      <FileName>Classes\AbstractClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentWise_.Classes.Condominium">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACADgAAAAQBBGAQAQAAAAAAQIAABAAkCQBAMgAAAIAA=</HashCode>
+      <FileName>Classes\AbstractClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentWise_.IntroForm" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAACAAABICAACAAAACAAAAAAAAAAAAAABAAEA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentWise_.LogIn" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EGAAAQAAACAAEBICAACAAAAKBAAAAkCAgAAIAQAAAAA=</HashCode>
+      <FileName>LogIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentWise_.OwnerDashboard" Collapsed="true">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GS2kATICJLUTQdPbGAKBFChSJA4YRAzQkyoIlRR/gBE=</HashCode>
+      <FileName>OwnerDashboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentWise_.Program" Collapsed="true">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentWise_.Register" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAEAAAIBAKAGkBICQECAAAgCABLAAAAAgQAIAQAQgAA=</HashCode>
+      <FileName>Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentWise_.RegisterAs" Collapsed="true">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAACKAABJICAACAAAACIAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>RegisterAs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentWise_.RegisterCondominium" Collapsed="true">
+    <Position X="15" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggACAAEAAKAgAJJCgECgAAACAACAAAMAAiAIBAAAQgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentWise_.RegisterDormitory" Collapsed="true">
+    <Position X="16.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GACCABAAACIIgBICCECAAAAKAIAAAQIoghAIVAAJCAI=</HashCode>
+      <FileName>RegisterDormitory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentWise_.RegisterRenter" Collapsed="true">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ECABBAwAACgUHBIzgKSAgAACADAEAAAIwAAIAQAAkAA=</HashCode>
+      <FileName>RegisterRenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RentWise_.RenterDashboard" Collapsed="true">
+    <Position X="13.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAAgAAQAACgAgJIDAASAAAACEAhgFAQAACQIQQRfAAA=</HashCode>
+      <FileName>RenterDashboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
